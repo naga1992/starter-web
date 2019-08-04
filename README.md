@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to
 THis is sample how to  
-
+please fork and issue pull requests
 ## Deployment
 This is sample deplyment
 ## winter
